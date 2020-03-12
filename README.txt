@@ -11,7 +11,7 @@ Adaugari in v1.3:
 
 Pentru a folosi Puffer Password Utility v1.3:
 -Muta shortcut-ul(patratul gri) in ce folder preferi
--Muta foldetul intitulat 'Puffer Password' in ce folder doresti
+-Muta foldetul intitulat 'PufferPasswordUtility-master' in ce folder doresti
 -Da dublu click pe shortcut
 
 ---Poti sterge acest fisier daca vrei---
